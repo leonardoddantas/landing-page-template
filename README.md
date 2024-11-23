@@ -53,13 +53,3 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga os segui
 
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-
-### Explicação das seções:
-1. **Descrição**: Fornece um breve resumo sobre o propósito da landing page.
-2. **Como rodar o projeto**: Passos necessários para rodar o projeto localmente.
-3. **Tecnologias usadas**: Listagem das principais ferramentas e tecnologias utilizadas no projeto.
-4. **Contribuindo**: Instruções para quem deseja contribuir para o projeto.
-5. **Licença**: Informa sobre a licença do projeto (MIT neste caso).
-
-Este arquivo `README.md` pode ser expandido com mais informações à medida que o projeto evolui.
